@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **balbirs2204@gmail.com**
 
+[![An image of @balbirs22's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/balbirs22)](https://holopin.io/@balbirs22)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/balbir-singh-bhatia-1822b3282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balbir-singh-bhatia-1822b3282" height="30" width="40" /></a>
