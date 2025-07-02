@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Agentic AI**
 
-- 👨‍💻 All of my projects are available at [bsbhatia.site](bsbhatia.site)
+- 👨‍💻 All of my projects are available at [https://www.bsbhatia.site](bsbhatia.site)
 
 - 💬 Ask me about **Python, Data analytics, MERN development**
 
